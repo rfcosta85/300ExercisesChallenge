@@ -7,7 +7,7 @@ programa
 		// Quarto exercicío do desafio de 300
 		// A instrução irá imprimir uma mensagem e envia-la 
 		// Obs esta é a versão 2.0 do sistema
-		// 21/04/2020
+		// 22/04/2020
 
 		cadeia declaracao, email, resposta
 
@@ -46,7 +46,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 204; 
+ * @POSICAO-CURSOR = 212; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
